@@ -46,6 +46,12 @@
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -56,12 +62,81 @@
 <layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="99" name="SpiceOrder" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
+<layer number="103" name="fp3" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
+<layer number="105" name="Beschreib" color="9" fill="1" visible="no" active="yes"/>
+<layer number="106" name="BGA-Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="107" name="BD-Top" color="5" fill="1" visible="no" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="113" name="ReferenceLS" color="7" fill="1" visible="no" active="no"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
+<layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
+<layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
+<layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
 <layer number="200" name="200bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="201" name="201bmp" color="2" fill="1" visible="no" active="no"/>
+<layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
+<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
+<layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
+<layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
+<layer number="220" name="220bmp" color="21" fill="1" visible="no" active="no"/>
+<layer number="221" name="221bmp" color="22" fill="1" visible="no" active="no"/>
+<layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
+<layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
+<layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="231" name="Eagle3D_PG1" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
@@ -2642,6 +2717,142 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="adafruit">
+<packages>
+<package name="1X30-0.7MM">
+<smd name="1" x="-10.15" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="2" x="-9.45" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="3" x="-8.75" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="4" x="-8.05" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="5" x="-7.35" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="6" x="-6.65" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="7" x="-5.95" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="8" x="-5.25" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="9" x="-4.55" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="10" x="-3.85" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="11" x="-3.15" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="12" x="-2.45" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="13" x="-1.75" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="14" x="-1.05" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="15" x="-0.35" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="16" x="0.35" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="17" x="1.05" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="18" x="1.75" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="19" x="2.45" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="20" x="3.15" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="21" x="3.85" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="22" x="4.55" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="23" x="5.25" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="24" x="5.95" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="25" x="6.65" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="26" x="7.35" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="27" x="8.05" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="28" x="8.75" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="29" x="9.45" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<smd name="30" x="10.15" y="0" dx="1.6" dy="0.35" layer="1" rot="R90"/>
+<text x="-10.65" y="-0.95" size="0.8128" layer="21" font="vector" rot="R270">1</text>
+<text x="-4.15" y="-1.05" size="0.8128" layer="21" font="vector" rot="R270">10</text>
+<text x="2.8" y="-1.05" size="0.8128" layer="21" font="vector" rot="R270">20</text>
+<text x="9.75" y="-1.05" size="0.8128" layer="21" font="vector" rot="R270">30</text>
+</package>
+</packages>
+<symbols>
+<symbol name="UG-2864HSWEG01">
+<wire x1="-38.1" y1="-22.86" x2="-38.1" y2="35.56" width="0.254" layer="94"/>
+<wire x1="-38.1" y1="35.56" x2="40.64" y2="35.56" width="0.254" layer="94"/>
+<wire x1="40.64" y1="35.56" x2="40.64" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="40.64" y1="-22.86" x2="-38.1" y2="-22.86" width="0.254" layer="94"/>
+<wire x1="30.48" y1="30.48" x2="33.02" y2="27.94" width="0.254" layer="94" curve="-90"/>
+<wire x1="-27.94" y1="0" x2="-30.48" y2="2.54" width="0.254" layer="94" curve="-90"/>
+<wire x1="-30.48" y1="2.54" x2="-30.48" y2="27.94" width="0.254" layer="94"/>
+<wire x1="-30.48" y1="27.94" x2="-27.94" y2="30.48" width="0.254" layer="94" curve="-90"/>
+<wire x1="-27.94" y1="30.48" x2="30.48" y2="30.48" width="0.254" layer="94"/>
+<wire x1="-27.94" y1="0" x2="30.48" y2="0" width="0.254" layer="94"/>
+<wire x1="30.48" y1="0" x2="33.02" y2="2.54" width="0.254" layer="94" curve="90"/>
+<wire x1="33.02" y1="27.94" x2="33.02" y2="2.54" width="0.254" layer="94"/>
+<text x="17.78" y="10.16" size="2.54" layer="95" font="vector" rot="R180">&gt;NAME</text>
+<text x="-15.24" y="7.62" size="2.54" layer="96" font="vector">&gt;VALUE</text>
+<text x="-15.24" y="15.24" size="3.81" layer="94">128x64 OLED</text>
+<pin name="MT" x="-35.56" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="C2P" x="-33.02" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="C2N" x="-30.48" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="C1P" x="-27.94" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="C1N" x="-25.4" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="VBAT" x="-22.86" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="NC" x="-20.32" y="-25.4" length="short" direction="nc" rot="R90"/>
+<pin name="VSS" x="-17.78" y="-25.4" length="short" direction="pwr" rot="R90"/>
+<pin name="VDD" x="-15.24" y="-25.4" length="short" direction="pwr" rot="R90"/>
+<pin name="BS0" x="-12.7" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="BS1" x="-10.16" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="BS2" x="-7.62" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="/CS" x="-5.08" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="/RES" x="-2.54" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="D/C" x="0" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="R/W" x="2.54" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="E/RD" x="5.08" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="D0/DI" x="7.62" y="-25.4" length="short" rot="R90"/>
+<pin name="D1/SCLK" x="10.16" y="-25.4" length="short" rot="R90"/>
+<pin name="D2" x="12.7" y="-25.4" length="short" rot="R90"/>
+<pin name="D3" x="15.24" y="-25.4" length="short" rot="R90"/>
+<pin name="D4" x="17.78" y="-25.4" length="short" rot="R90"/>
+<pin name="D5" x="20.32" y="-25.4" length="short" rot="R90"/>
+<pin name="D6" x="22.86" y="-25.4" length="short" rot="R90"/>
+<pin name="D7" x="25.4" y="-25.4" length="short" rot="R90"/>
+<pin name="IREF" x="27.94" y="-25.4" length="short" direction="in" rot="R90"/>
+<pin name="VCOMH" x="30.48" y="-25.4" length="short" direction="out" rot="R90"/>
+<pin name="VCC" x="33.02" y="-25.4" length="short" direction="pwr" rot="R90"/>
+<pin name="VLSS" x="35.56" y="-25.4" length="short" direction="pwr" rot="R90"/>
+<pin name="MT2" x="38.1" y="-25.4" length="short" direction="in" rot="R90"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="UG-2864HSWEG01">
+<description>UG-2864HSWEG01 OLED display</description>
+<gates>
+<gate name="G$1" symbol="UG-2864HSWEG01" x="0" y="-2.54"/>
+</gates>
+<devices>
+<device name="" package="1X30-0.7MM">
+<connects>
+<connect gate="G$1" pin="/CS" pad="13"/>
+<connect gate="G$1" pin="/RES" pad="14"/>
+<connect gate="G$1" pin="BS0" pad="10"/>
+<connect gate="G$1" pin="BS1" pad="11"/>
+<connect gate="G$1" pin="BS2" pad="12"/>
+<connect gate="G$1" pin="C1N" pad="5"/>
+<connect gate="G$1" pin="C1P" pad="4"/>
+<connect gate="G$1" pin="C2N" pad="3"/>
+<connect gate="G$1" pin="C2P" pad="2"/>
+<connect gate="G$1" pin="D/C" pad="15"/>
+<connect gate="G$1" pin="D0/DI" pad="18"/>
+<connect gate="G$1" pin="D1/SCLK" pad="19"/>
+<connect gate="G$1" pin="D2" pad="20"/>
+<connect gate="G$1" pin="D3" pad="21"/>
+<connect gate="G$1" pin="D4" pad="22"/>
+<connect gate="G$1" pin="D5" pad="23"/>
+<connect gate="G$1" pin="D6" pad="24"/>
+<connect gate="G$1" pin="D7" pad="25"/>
+<connect gate="G$1" pin="E/RD" pad="17"/>
+<connect gate="G$1" pin="IREF" pad="26"/>
+<connect gate="G$1" pin="MT" pad="1"/>
+<connect gate="G$1" pin="MT2" pad="30"/>
+<connect gate="G$1" pin="NC" pad="7"/>
+<connect gate="G$1" pin="R/W" pad="16"/>
+<connect gate="G$1" pin="VBAT" pad="6"/>
+<connect gate="G$1" pin="VCC" pad="28"/>
+<connect gate="G$1" pin="VCOMH" pad="27"/>
+<connect gate="G$1" pin="VDD" pad="9"/>
+<connect gate="G$1" pin="VLSS" pad="29"/>
+<connect gate="G$1" pin="VSS" pad="8"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2693,6 +2904,21 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <part name="SUPPLY8" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
+<part name="U$3" library="adafruit" deviceset="UG-2864HSWEG01" device=""/>
+<part name="R12" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
+<part name="R13" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
+<part name="C11" library="eagle-ltspice" deviceset="C" device="C0504" value=".1uf"/>
+<part name="C12" library="eagle-ltspice" deviceset="C" device="C0504" value="1uF"/>
+<part name="C13" library="eagle-ltspice" deviceset="C" device="C0504" value="1uF"/>
+<part name="C14" library="eagle-ltspice" deviceset="C" device="C0504" value="2.2uF"/>
+<part name="SUPPLY12" library="supply2" deviceset="GND" device=""/>
+<part name="C15" library="eagle-ltspice" deviceset="C" device="C0504" value="2.2uF"/>
+<part name="C16" library="eagle-ltspice" deviceset="C" device="C0504" value=".1uF"/>
+<part name="SUPPLY13" library="supply2" deviceset="GND" device=""/>
+<part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
+<part name="R14" library="eagle-ltspice" deviceset="R" device="R0603" value="390K"/>
+<part name="SUPPLY14" library="supply2" deviceset="GND" device=""/>
+<part name="C17" library="eagle-ltspice" deviceset="C" device="C0504" value="1uF"/>
 </parts>
 <sheets>
 <sheet>
@@ -2735,7 +2961,7 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <instance part="R4" gate="G$1" x="-60.96" y="116.84" rot="MR90"/>
 <instance part="SUPPLY6" gate="GND" x="-60.96" y="106.68"/>
 <instance part="SV1" gate="G$1" x="-114.3" y="22.86"/>
-<instance part="X1" gate="G$1" x="50.8" y="55.88"/>
+<instance part="X1" gate="G$1" x="-119.38" y="58.42"/>
 <instance part="U$2" gate="G$1" x="-177.8" y="33.02"/>
 <instance part="IC4" gate="G$1" x="-17.78" y="119.38"/>
 <instance part="S1" gate="1" x="-127" y="124.46" rot="R270"/>
@@ -2761,6 +2987,21 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <instance part="SUPPLY8" gate="GND" x="22.86" y="114.3"/>
 <instance part="SUPPLY9" gate="GND" x="48.26" y="91.44"/>
 <instance part="SUPPLY10" gate="GND" x="91.44" y="86.36"/>
+<instance part="U$3" gate="G$1" x="81.28" y="33.02" rot="R270"/>
+<instance part="R12" gate="G$1" x="40.64" y="25.4" rot="MR0"/>
+<instance part="R13" gate="G$1" x="40.64" y="17.78" rot="MR0"/>
+<instance part="C11" gate="G$1" x="33.02" y="50.8" rot="R90"/>
+<instance part="C12" gate="G$1" x="33.02" y="43.18" rot="R90"/>
+<instance part="C13" gate="G$1" x="33.02" y="71.12" rot="R90"/>
+<instance part="C14" gate="G$1" x="27.94" y="10.16" rot="R90"/>
+<instance part="SUPPLY12" gate="GND" x="27.94" y="40.64"/>
+<instance part="C15" gate="G$1" x="40.64" y="2.54" rot="R90"/>
+<instance part="C16" gate="G$1" x="40.64" y="-5.08" rot="R90"/>
+<instance part="SUPPLY13" gate="GND" x="35.56" y="-7.62"/>
+<instance part="SUPPLY11" gate="GND" x="22.86" y="7.62"/>
+<instance part="R14" gate="G$1" x="15.24" y="15.24" rot="MR0"/>
+<instance part="SUPPLY14" gate="GND" x="10.16" y="12.7"/>
+<instance part="C17" gate="G$1" x="33.02" y="60.96" rot="R90"/>
 </instances>
 <busses>
 <bus name="B[0..2]">
@@ -2837,8 +3078,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </segment>
 <segment>
 <pinref part="X1" gate="G$1" pin="4"/>
-<wire x1="45.72" y1="53.34" x2="43.18" y2="53.34" width="0.1524" layer="91"/>
-<label x="38.1" y="53.34" size="1.778" layer="95"/>
+<wire x1="-124.46" y1="55.88" x2="-127" y2="55.88" width="0.1524" layer="91"/>
+<label x="-132.08" y="55.88" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="1"/>
@@ -2872,6 +3113,47 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <wire x1="91.44" y1="88.9" x2="99.06" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="SUPPLY10" gate="GND" pin="GND"/>
 <junction x="91.44" y="88.9"/>
+</segment>
+<segment>
+<pinref part="C11" gate="G$1" pin="1"/>
+<pinref part="C12" gate="G$1" pin="1"/>
+<wire x1="30.48" y1="50.8" x2="30.48" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="43.18" x2="27.94" y2="43.18" width="0.1524" layer="91"/>
+<junction x="30.48" y="43.18"/>
+<pinref part="SUPPLY12" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C15" gate="G$1" pin="1"/>
+<pinref part="C16" gate="G$1" pin="1"/>
+<wire x1="38.1" y1="2.54" x2="38.1" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="-5.08" x2="35.56" y2="-5.08" width="0.1524" layer="91"/>
+<junction x="38.1" y="-5.08"/>
+<pinref part="SUPPLY13" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C14" gate="G$1" pin="1"/>
+<wire x1="25.4" y1="10.16" x2="22.86" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="SUPPLY11" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="SUPPLY14" gate="GND" pin="GND"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="VSS"/>
+<wire x1="55.88" y1="50.8" x2="53.34" y2="50.8" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="E/RD"/>
+<wire x1="55.88" y1="27.94" x2="53.34" y2="27.94" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="D/C"/>
+<wire x1="55.88" y1="33.02" x2="53.34" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="VLSS"/>
+<wire x1="55.88" y1="-2.54" x2="53.34" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -3024,8 +3306,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 </segment>
 <segment>
 <pinref part="X1" gate="G$1" pin="1"/>
-<wire x1="45.72" y1="60.96" x2="43.18" y2="60.96" width="0.1524" layer="91"/>
-<label x="38.1" y="60.96" size="1.778" layer="95"/>
+<wire x1="-124.46" y1="63.5" x2="-127" y2="63.5" width="0.1524" layer="91"/>
+<label x="-132.08" y="63.5" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C7" gate="G$1" pin="1"/>
@@ -3036,8 +3318,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <net name="USB-" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="2"/>
-<wire x1="45.72" y1="58.42" x2="43.18" y2="58.42" width="0.1524" layer="91"/>
-<label x="38.1" y="58.42" size="1.778" layer="95"/>
+<wire x1="-124.46" y1="60.96" x2="-127" y2="60.96" width="0.1524" layer="91"/>
+<label x="-132.08" y="60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="2"/>
@@ -3048,8 +3330,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <net name="USB+" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="3"/>
-<wire x1="45.72" y1="55.88" x2="43.18" y2="55.88" width="0.1524" layer="91"/>
-<label x="38.1" y="55.88" size="1.778" layer="95"/>
+<wire x1="-124.46" y1="58.42" x2="-127" y2="58.42" width="0.1524" layer="91"/>
+<label x="-132.08" y="58.42" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C6" gate="G$1" pin="1"/>
@@ -3060,8 +3342,8 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <net name="SHEILD" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="5"/>
-<wire x1="45.72" y1="50.8" x2="43.18" y2="50.8" width="0.1524" layer="91"/>
-<label x="35.56" y="50.8" size="1.778" layer="95"/>
+<wire x1="-124.46" y1="53.34" x2="-127" y2="53.34" width="0.1524" layer="91"/>
+<label x="-134.62" y="53.34" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="6" class="0">
@@ -3151,6 +3433,139 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <wire x1="96.52" y1="99.314" x2="96.52" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="!CTS"/>
 <wire x1="96.52" y1="114.3" x2="83.82" y2="114.3" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="OLED_SCL" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="D0/DI"/>
+<pinref part="R12" gate="G$1" pin="1"/>
+<wire x1="55.88" y1="25.4" x2="45.72" y2="25.4" width="0.1524" layer="91"/>
+<label x="45.72" y="25.4" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="OLED_SDA" class="0">
+<segment>
+<pinref part="R13" gate="G$1" pin="1"/>
+<wire x1="45.72" y1="17.78" x2="45.72" y2="22.86" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="D1/SCLK"/>
+<wire x1="45.72" y1="22.86" x2="55.88" y2="22.86" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="D2"/>
+<wire x1="55.88" y1="22.86" x2="55.88" y2="20.32" width="0.1524" layer="91"/>
+<label x="55.88" y="25.4" size="1.778" layer="95" rot="R180"/>
+</segment>
+</net>
+<net name="OLED_VSS" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="BS0"/>
+<wire x1="55.88" y1="45.72" x2="48.26" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="45.72" x2="48.26" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="BS2"/>
+<wire x1="55.88" y1="40.64" x2="48.26" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="R/W"/>
+<wire x1="55.88" y1="30.48" x2="53.34" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="/CS"/>
+<wire x1="55.88" y1="38.1" x2="53.34" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="OLED_VDD" class="0">
+<segment>
+<pinref part="C11" gate="G$1" pin="2"/>
+<pinref part="C12" gate="G$1" pin="2"/>
+<wire x1="38.1" y1="50.8" x2="38.1" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="VDD"/>
+<wire x1="55.88" y1="48.26" x2="50.8" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="48.26" x2="50.8" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="VBAT"/>
+<wire x1="50.8" y1="55.88" x2="55.88" y2="55.88" width="0.1524" layer="91"/>
+<junction x="38.1" y="43.18"/>
+<junction x="50.8" y="48.26"/>
+<wire x1="38.1" y1="43.18" x2="43.18" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="43.18" x2="43.18" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="48.26" x2="50.8" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="BS1"/>
+<wire x1="55.88" y1="43.18" x2="53.34" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="35.56" y1="25.4" x2="35.56" y2="17.78" width="0.1524" layer="91"/>
+<label x="25.4" y="20.32" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U$3" gate="G$1" pin="/RES"/>
+<wire x1="55.88" y1="35.56" x2="53.34" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="OLED_VCC" class="0">
+<segment>
+<pinref part="C15" gate="G$1" pin="2"/>
+<pinref part="C16" gate="G$1" pin="2"/>
+<wire x1="45.72" y1="2.54" x2="45.72" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="2.54" x2="48.26" y2="2.54" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="2.54" x2="48.26" y2="0" width="0.1524" layer="91"/>
+<junction x="45.72" y="2.54"/>
+<pinref part="U$3" gate="G$1" pin="VCC"/>
+<wire x1="48.26" y1="0" x2="55.88" y2="0" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$5" class="0">
+<segment>
+<pinref part="C14" gate="G$1" pin="2"/>
+<wire x1="33.02" y1="10.16" x2="50.8" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="10.16" x2="50.8" y2="2.54" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="VCOMH"/>
+<wire x1="50.8" y1="2.54" x2="55.88" y2="2.54" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="IREF"/>
+<wire x1="55.88" y1="5.08" x2="53.34" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="5.08" x2="53.34" y2="15.24" width="0.1524" layer="91"/>
+<pinref part="R14" gate="G$1" pin="1"/>
+<wire x1="53.34" y1="15.24" x2="20.32" y2="15.24" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$7" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C2P"/>
+<wire x1="55.88" y1="66.04" x2="48.26" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="66.04" x2="48.26" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="C13" gate="G$1" pin="2"/>
+<wire x1="48.26" y1="71.12" x2="38.1" y2="71.12" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$10" class="0">
+<segment>
+<pinref part="C13" gate="G$1" pin="1"/>
+<wire x1="30.48" y1="71.12" x2="27.94" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="71.12" x2="27.94" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="68.58" x2="45.72" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="68.58" x2="45.72" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="C2N"/>
+<wire x1="45.72" y1="63.5" x2="55.88" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$11" class="0">
+<segment>
+<pinref part="U$3" gate="G$1" pin="C1P"/>
+<pinref part="C17" gate="G$1" pin="2"/>
+<wire x1="55.88" y1="60.96" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$12" class="0">
+<segment>
+<pinref part="C17" gate="G$1" pin="1"/>
+<wire x1="30.48" y1="60.96" x2="27.94" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="60.96" x2="27.94" y2="58.42" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="C1N"/>
+<wire x1="27.94" y1="58.42" x2="55.88" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
