@@ -4229,7 +4229,7 @@ Source: http://www.osram.convergy.de/</description>
 </module>
 </modules>
 <parts>
-<part name="U$1" library="Microchip_By_element14_Batch_1" deviceset="MCP73812T-420I/OT" device=""/>
+<part name="U$1" library="Microchip_By_element14_Batch_1" deviceset="MCP73812T-420I/OT" device="" value=""/>
 <part name="R1" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
 <part name="R2" library="eagle-ltspice" deviceset="R" device="R0603" value="10K"/>
 <part name="C1" library="eagle-ltspice" deviceset="C" device="C0504" value="1uF"/>
