@@ -1161,7 +1161,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="6.161" y1="22.7584" x2="5.969" y2="22.9504" width="0.4064" layer="16"/>
 <wire x1="5.969" y1="22.9504" x2="4.9672" y2="22.9504" width="0.4064" layer="16"/>
 <wire x1="4.9672" y1="22.9504" x2="4.8641" y2="22.8473" width="0.4064" layer="16"/>
-<wire x1="34.4055" y1="11.4173" x2="35.1055" y2="11.4173" width="0.4064" layer="16"/>
+<wire x1="35.1055" y1="11.4173" x2="34.4055" y2="11.4173" width="0.4064" layer="16"/>
 <wire x1="35.1055" y1="11.4173" x2="35.1055" y2="14.1732" width="0.4064" layer="16"/>
 <wire x1="35.1055" y1="14.1732" x2="34.7463" y2="14.6304" width="0.4064" layer="16"/>
 <contactref element="U$3" pad="13"/>
@@ -1278,9 +1278,9 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="36.26" y1="10.2628" x2="36.26" y2="9.0424" width="0.4064" layer="16"/>
 <wire x1="39.56953125" y1="25.8064" x2="38.8962" y2="25.8069" width="0" layer="19" extent="1-16"/>
 <wire x1="36.26" y1="9.0424" x2="36.4124" y2="9.5123" width="0" layer="19" extent="1-16"/>
-<wire x1="26.0055" y1="11.4173" x2="34.4055" y2="11.4173" width="0" layer="19" extent="16-16"/>
 <wire x1="23.42789375" y1="6.0325" x2="23.6014" y2="5.9789" width="0" layer="19" extent="1-1"/>
 <wire x1="18.2014" y1="5.3439" x2="18.255" y2="5.3975" width="0" layer="19" extent="1-1"/>
+<wire x1="26.0055" y1="11.4173" x2="34.4055" y2="11.4173" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="VCC">
 <contactref element="IC4" pad="1"/>

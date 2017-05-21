@@ -4680,6 +4680,12 @@ With round pins</description>
 <pinref part="U$3" gate="G$1" pin="BS1"/>
 <wire x1="55.88" y1="43.18" x2="53.34" y2="43.18" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="35.56" y1="25.4" x2="35.56" y2="17.78" width="0.1524" layer="91"/>
+<label x="25.4" y="20.32" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="VBAT+" class="0">
 <segment>
@@ -4911,14 +4917,6 @@ With round pins</description>
 <pinref part="U$4" gate="G$1" pin="PD1(INT1/SDA)"/>
 <wire x1="-43.18" y1="-2.54" x2="-27.94" y2="-2.54" width="0.1524" layer="91"/>
 <label x="-35.56" y="-2.54" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="OLED_VDD" class="0">
-<segment>
-<pinref part="R12" gate="G$1" pin="2"/>
-<pinref part="R13" gate="G$1" pin="2"/>
-<wire x1="35.56" y1="25.4" x2="35.56" y2="17.78" width="0.1524" layer="91"/>
-<label x="25.4" y="20.32" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">

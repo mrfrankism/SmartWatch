@@ -141,9 +141,9 @@
 <board>
 <plain>
 <wire x1="0" y1="0" x2="50.47" y2="0" width="0" layer="20"/>
-<wire x1="50.47" y1="0" x2="50.47" y2="50.79" width="0" layer="20"/>
-<wire x1="50.47" y1="50.79" x2="0" y2="50.79" width="0" layer="20"/>
-<wire x1="0" y1="50.79" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="50.47" y1="0" x2="50.47" y2="42.0143" width="0" layer="20"/>
+<wire x1="50.47" y1="42.0143" x2="0" y2="42.0143" width="0" layer="20"/>
+<wire x1="0" y1="42.0143" x2="0" y2="0" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="Microchip_By_element14_Batch_1">

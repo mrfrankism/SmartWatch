@@ -4247,7 +4247,7 @@ Source: http://www.osram.convergy.de/</description>
 <part name="C4" library="eagle-ltspice" deviceset="C" device="C0504" value="2.2uF"/>
 <part name="SUPPLY7" library="supply2" deviceset="GND" device=""/>
 <part name="IC1" library="ft230x_10" deviceset="FT230X" device="S"/>
-<part name="L1" library="inductors" deviceset="BLM15H" device="" technology="B221SN1"/>
+<part name="L1" library="inductors" deviceset="BLM15H" device="" technology="B221SN1" value=""/>
 <part name="C5" library="eagle-ltspice" deviceset="C" device="C0504" value="47pF"/>
 <part name="C6" library="eagle-ltspice" deviceset="C" device="C0504" value="47pF"/>
 <part name="C7" library="eagle-ltspice" deviceset="C" device="C0504" value="10nF"/>
@@ -4287,9 +4287,9 @@ Source: http://www.osram.convergy.de/</description>
 <part name="SUPPLY15" library="supply2" deviceset="GND" device=""/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X2" device=""/>
 <part name="JP3" library="adafruit" deviceset="PINHD-1X3" device=""/>
-<part name="R17" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
-<part name="R18" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
-<part name="R19" library="eagle-ltspice" deviceset="R" device="R0603" value="2K"/>
+<part name="R17" library="eagle-ltspice" deviceset="R" device="R0603" value="330"/>
+<part name="R18" library="eagle-ltspice" deviceset="R" device="R0603" value="330"/>
+<part name="R19" library="eagle-ltspice" deviceset="R" device="R0603" value="330"/>
 <part name="LED1" library="adafruit" deviceset="LED" device="SMT1206"/>
 <part name="LED2" library="adafruit" deviceset="LED" device="SMT1206"/>
 <part name="LED3" library="adafruit" deviceset="LED" device="SMT1206"/>
@@ -4461,14 +4461,6 @@ Source: http://www.osram.convergy.de/</description>
 <wire x1="22.86" y1="132.08" x2="43.18" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="C10" gate="G$1" pin="2"/>
-<pinref part="SUPPLY9" gate="GND" pin="GND"/>
-<pinref part="IC1" gate="G$1" pin="GND"/>
-<wire x1="68.58" y1="96.52" x2="68.58" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="93.98" x2="48.26" y2="93.98" width="0.1524" layer="91"/>
-<junction x="48.26" y="93.98"/>
-</segment>
-<segment>
 <pinref part="C8" gate="G$1" pin="2"/>
 <pinref part="C9" gate="G$1" pin="2"/>
 <wire x1="91.44" y1="88.9" x2="99.06" y2="88.9" width="0.1524" layer="91"/>
@@ -4563,6 +4555,24 @@ Source: http://www.osram.convergy.de/</description>
 <junction x="-7.62" y="48.26"/>
 <junction x="-7.62" y="55.88"/>
 </segment>
+<segment>
+<pinref part="C10" gate="G$1" pin="2"/>
+<pinref part="SUPPLY9" gate="GND" pin="GND"/>
+<pinref part="IC1" gate="G$1" pin="GND"/>
+<wire x1="68.58" y1="96.52" x2="68.58" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="93.98" x2="48.26" y2="93.98" width="0.1524" layer="91"/>
+<junction x="48.26" y="93.98"/>
+</segment>
+<segment>
+<pinref part="U$4" gate="G$1" pin="UGND"/>
+<wire x1="-91.44" y1="7.62" x2="-99.06" y2="7.62" width="0.1524" layer="91"/>
+<label x="-96.52" y="7.62" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="X1" gate="G$1" pin="4"/>
+<wire x1="-124.46" y1="55.88" x2="-127" y2="55.88" width="0.1524" layer="91"/>
+<label x="-132.08" y="55.88" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="VCC" class="0">
 <segment>
@@ -4597,11 +4607,6 @@ Source: http://www.osram.convergy.de/</description>
 <junction x="91.44" y="96.52"/>
 <wire x1="91.44" y1="96.52" x2="91.44" y2="99.06" width="0.1524" layer="91"/>
 <label x="88.9" y="99.06" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="IC1" gate="G$1" pin="VCC"/>
-<wire x1="68.58" y1="127" x2="68.58" y2="132.08" width="0.1524" layer="91"/>
-<pinref part="L1" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="C11" gate="G$1" pin="2"/>
@@ -5028,18 +5033,6 @@ Source: http://www.osram.convergy.de/</description>
 <label x="-96.52" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="UGND" class="0">
-<segment>
-<pinref part="X1" gate="G$1" pin="4"/>
-<wire x1="-124.46" y1="55.88" x2="-127" y2="55.88" width="0.1524" layer="91"/>
-<label x="-132.08" y="55.88" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="U$4" gate="G$1" pin="UGND"/>
-<wire x1="-91.44" y1="7.62" x2="-99.06" y2="7.62" width="0.1524" layer="91"/>
-<label x="-96.52" y="7.62" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="VUSB" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="1"/>
@@ -5126,6 +5119,13 @@ Source: http://www.osram.convergy.de/</description>
 <wire x1="-33.02" y1="35.56" x2="-33.02" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="R17" gate="G$1" pin="2"/>
 <wire x1="-33.02" y1="63.5" x2="-25.4" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="FTDI_VCC" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="VCC"/>
+<wire x1="68.58" y1="127" x2="68.58" y2="132.08" width="0.1524" layer="91"/>
+<pinref part="L1" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
