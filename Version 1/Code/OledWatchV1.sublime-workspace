@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"set_low"
+			],
+			[
+				"LED",
+				"LED1"
+			],
+			[
+				"set",
+				"set_high"
+			],
+			[
+				"dela",
+				"_delay_ms"
+			],
+			[
+				"SPI",
+				"SPI_transcieve"
+			],
+			[
+				"spim",
+				"SPI_MSTR"
+			],
+			[
+				"SPIcl",
+				"SPI_CLK1"
+			],
+			[
+				"SPIs",
+				"SPI_SCL"
+			],
+			[
+				"SPIM",
+				"SPI_MOSI"
+			],
+			[
+				"transmit",
+				"transmitByte"
+			],
+			[
+				"mast",
+				"SPI_masterrecieve"
+			],
+			[
+				"spi",
+				"SPI_masterrecieve"
+			],
+			[
+				"print",
+				"printString"
+			],
+			[
+				"AT",
+				"atmega328p"
+			],
+			[
+				"layer",
+				"layerLength"
+			],
+			[
+				"net",
+				"net_topography"
+			],
+			[
+				"feed",
+				"feedForward"
+			],
+			[
+				"in",
+				"inputData"
+			],
+			[
+				"get",
+				"getNumberOfNeurons"
+			],
+			[
+				"a",
+				"activationValue"
+			],
+			[
+				"weight",
+				"weightedInput"
+			],
+			[
+				"son",
+				"song_name"
+			],
+			[
+				"No",
+				"None\tkeyword"
+			],
+			[
+				"star",
+				"start_new_thread\tfunction"
+			],
+			[
+				"upload",
+				"upload_file\tfunction"
+			],
+			[
+				"chane",
+				"change_screen_button\tstatement"
+			],
+			[
+				"button",
+				"button_layout\tstatement"
+			],
+			[
+				"change",
+				"change_screen_button\tstatement"
+			],
+			[
+				"cato",
+				"cato\tstatement"
+			],
+			[
+				"uploa",
+				"upload_files"
+			],
+			[
+				"xml",
+				"xml_tree"
+			],
+			[
+				"en",
+				"entry_point\tparam"
+			],
+			[
+				"dir",
+				"directory\tforstmt"
+			],
+			[
+				"cat",
+				"cataloger\tclass"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"entry",
+				"entry_point"
+			],
+			[
+				"E",
+				"ElementTree\tmodule"
+			],
+			[
+				"Elem",
+				"ElementTree\tmodule"
+			],
+			[
+				"Ele",
+				"Element"
+			],
+			[
+				"music",
+				"music_file\tstatement"
+			],
+			[
+				"sle",
+				"selection"
+			],
+			[
+				"choose_folder",
+				"choose_folder_button\tstatement"
+			],
+			[
+				"Inde",
+				"IndexError\tclass"
+			],
+			[
+				"file",
+				"FileChooserListView\tclass"
+			],
+			[
+				"File",
+				"FileSystemAbstract\tclass"
+			],
+			[
+				"choosle",
+				"choose_file_button\tstatement"
+			],
+			[
+				"param",
+				"param2\tparam"
+			],
+			[
+				"choose",
+				"choose_file"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"screen",
+				"screen2\tstatement"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"up",
+				"upload_file"
+			],
+			[
+				"down",
+				"downloadRequest\tmodule"
+			],
+			[
+				"new",
+				"newWindow\tclass"
+			],
+			[
+				"Sc",
+				"ScreenManager\tclass"
+			],
+			[
+				"fileCH",
+				"fileChooserRunner\tmodule"
+			],
+			[
+				"run",
+				"runTouchApp\tfunction"
+			],
+			[
+				"list",
+				"listtester\tmodule"
+			],
+			[
+				"dow",
+				"downloadRequest"
+			],
+			[
+				"downa",
+				"download_file"
+			],
+			[
+				"ap",
+				"App\tclass"
+			],
+			[
+				"last",
+				"lastError"
+			],
+			[
+				"sig",
+				"sigDerivative"
+			],
+			[
+				"arr",
+				"arrayTimes"
+			],
+			[
+				"time",
+				"arrayTimes"
+			],
+			[
+				"error",
+				"errorLastLayer"
+			],
+			[
+				"network",
+				"networkStructure"
+			],
+			[
+				"int",
+				"indexLastLayerActivation"
+			],
+			[
+				"row",
+				"getRowDimension"
+			],
+			[
+				"index",
+				"indexLastLayerActivation"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"col",
+				"getColumnDimension"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"Net",
+				"NetworkV2"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Ma",
+				"Matrix"
+			],
+			[
+				"tmp",
+				"tmpErrorArray"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"im",
+				"imt\timport junit.framework.TestCase;"
+			],
+			[
+				"lear",
+				"learningRate"
+			],
+			[
+				"fr",
+				"for\tforLoopJavaSnippet"
+			],
+			[
+				"Eve",
+				"EVENT_LBUTTONDBLCLK\tinstance"
+			],
+			[
+				"destroy",
+				"destroyAllWindows\tfunction"
+			],
+			[
+				"color_bgr2",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"IMREAD",
+				"IMREAD_COLOR\tinstance"
+			],
+			[
+				"cac",
+				"caca2"
+			],
+			[
+				"ca",
+				"caca2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1258,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "makefile",
+			"settings":
+			{
+				"buffer_size": 468,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "USART.h",
+			"settings":
+			{
+				"buffer_size": 1786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "USART.c",
+			"settings":
+			{
+				"buffer_size": 4467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'test_UART':\r\nmain.c:31: error: expected ';' before '_delay_ms'\r\nmain.c:38: error: expected ';' before '}' token\r\nmain.c: In function 'test_LEDS':\r\nmain.c:44: error: called object '*37u = (volatile uint8_t)((unsigned char)*37u | 32u)' is not a function\r\nmain.c:46: error: expected ';' before '_delay_ms'\r\nmain.c:48: error: called object '*37u = *37u' is not a function\r\nmain.c:50: error: expected ';' before '}' token\r\nmain.c: In function 'main':\r\nmain.c:56: error: called object '*36u = (volatile uint8_t)((unsigned char)*36u | 32u)' is not a function\r\nmain.c:60: error: expected ';' before 'init_USART'\r\nmake: *** [main.o] Error 1\r\n\nmake\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'test_UART':\r\nmain.c:38: error: expected ';' before '}' token\r\nmake: *** [main.o] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o USART.o USART.c\r\nUSART.c: In function 'initUSART':\r\nUSART.c:25: error: 'UBRR0H' undeclared (first use in this function)\r\nUSART.c:25: error: (Each undeclared identifier is reported only once\r\nUSART.c:25: error: for each function it appears in.)\r\nUSART.c:26: error: 'UBRR0L' undeclared (first use in this function)\r\nUSART.c:30: error: 'UCSR0A' undeclared (first use in this function)\r\nUSART.c:30: error: 'U2X0' undeclared (first use in this function)\r\nUSART.c:33: error: 'UCSR0B' undeclared (first use in this function)\r\nUSART.c:33: error: 'TXEN0' undeclared (first use in this function)\r\nUSART.c:33: error: 'RXEN0' undeclared (first use in this function)\r\nUSART.c:34: error: 'UCSR0C' undeclared (first use in this function)\r\nUSART.c:34: error: 'UCSZ01' undeclared (first use in this function)\r\nUSART.c:34: error: 'UCSZ00' undeclared (first use in this function)\r\nUSART.c: In function 'transmitByte':\r\nUSART.c:40: error: 'UCSR0A' undeclared (first use in this function)\r\nUSART.c:40: error: 'UDRE0' undeclared (first use in this function)\r\nUSART.c:41: error: 'UDR0' undeclared (first use in this function)\r\nUSART.c: In function 'receiveByte':\r\nUSART.c:45: error: 'UCSR0A' undeclared (first use in this function)\r\nUSART.c:45: error: 'RXC0' undeclared (first use in this function)\r\nUSART.c:46: error: 'UDR0' undeclared (first use in this function)\r\nmake: *** [USART.o] Error 1\r\n\ncd█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1 ] cd ..\nC:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch ] cd ..\nC:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch ] git add *\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#1.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#2.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#3.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#4.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#5.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#6.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#7.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#8.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.b#9.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.brd.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/.gitignore.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Adafruit_GFX.cpp.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Adafruit_GFX.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMono12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMono18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMono24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMono9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBold12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBold18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBold24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBold9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBoldOblique12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBoldOblique18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBoldOblique24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoBoldOblique9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoOblique12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoOblique18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoOblique24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeMonoOblique9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSans12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSans18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSans24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSans9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBold12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBold18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBold24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBold9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBoldOblique12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBoldOblique18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBoldOblique24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansBoldOblique9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansOblique12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansOblique18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansOblique24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSansOblique9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerif12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerif18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerif24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerif9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBold12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBold18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBold24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBold9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBoldItalic12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBoldItalic18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBoldItalic24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifBoldItalic9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifItalic12pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifItalic18pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifItalic24pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/FreeSerifItalic9pt7b.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/Org_01.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/Picopixel.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/Tiny3x3a2pt7b.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/Fonts/TomThumb.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/README.md.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/fontconvert/Makefile.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/fontconvert/fontconvert.c.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/fontconvert/makefonts.sh.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/gfxfont.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/glcdfont.c.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/library.properties.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit-GFX-Library-master/Adafruit-GFX-Library-master/license.txt.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/.github/ISSUE_TEMPLATE.md.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/.github/PULL_REQUEST_TEMPLATE.md.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/Adafruit_SSD1306.cpp.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/Adafruit_SSD1306.h.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/README.md.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/README.txt.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/examples/ssd1306_128x32_i2c/ssd1306_128x32_i2c.ino.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/examples/ssd1306_128x32_spi/ssd1306_128x32_spi.ino.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/examples/ssd1306_128x64_i2c/ssd1306_128x64_i2c.ino.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/examples/ssd1306_128x64_spi/ssd1306_128x64_spi.ino.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/library.properties.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/Adafruit_SSD1306-master/license.txt.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/OledWatchV1.sublime-workspace.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/USART.c.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/Code/USART.h.\nThe file will have its original line endings in your working directory.\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch ] git commit -m \"Saving to Git\"\nerror: pathspec 'to' did not match any file(s) known to git.\nerror: pathspec 'Git' did not match any file(s) known to git.\n\n",
+			"settings":
+			{
+				"buffer_size": 22466,
+				"line_ending": "Windows",
+				"name": "terminal.glue"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "glue",
+		"selected_items":
+		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sheel",
+				"Shell Exec: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"sspython",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjaa",
+				"Set Syntax: Java"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Snippet: ",
+				"Snippet: snip"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"set syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Javatar: Operations..."
+			],
+			[
+				"anacon",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"ja",
+				"Javatar: Builds..."
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"javac",
+			"cd ",
+			"caca",
+			"run",
+			"help",
+			"python",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/Adafruit_SSD1306-master"
+	],
+	"file_history":
+	[
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_slave/main.c",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/oled_lib.cpp",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/oled_lib.h",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_slave/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/main.c",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/terminal.glue",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/Simple_Blink.c",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/blink.c",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/USART.c",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/USART.h",
+		"/C/Users/franco/Documents/2017 Summer Research/Simple_Blink.c",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Makefile.sublime-settings",
+		"/C/Users/franco/Documents/2017 Summer Research/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/SPI_com.c",
+		"/C/Users/franco/Documents/2017 Summer Research/blink.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_03.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_02.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_01.c",
+		"/C/Users/franco/Desktop/Software Development/Demo Source Code (Java)/GAO 217001 Sample Code/GAO217001Sample.java",
+		"/C/Users/franco/Documents/github/Traveling Salesman/Node.py",
+		"/C/Users/franco/Documents/github/Traveling Salesman/main.py",
+		"/C/Users/franco/Documents/github/PythonNet/gitinit.bat",
+		"/C/Users/franco/Documents/github/PythonNet/Neuron.py",
+		"/C/Users/franco/Documents/github/PythonNet/Network.py",
+		"/C/Users/franco/Documents/github/PythonNet/tester.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/franco/Documents/github/NeuralNetwork/README.md",
+		"/C/Users/franco/Documents/github/ComicDownloader/argfile",
+		"/C/Users/franco/Documents/github/ComicDownloader/ComicDownloader.java",
+		"/C/Users/franco/Documents/github/Light Weight Java Compilation Tool/JavaComiplerV2.bat",
+		"/C/Users/franco/Documents/github/VideoSender/KivyApp.py",
+		"/C/Users/franco/Documents/github/VideoSender/testerTkinter.py",
+		"/C/Users/franco/Documents/github/VideoSender/debugger.py",
+		"/C/Users/franco/Documents/github/VideoSender/string find tester.py",
+		"/C/Users/franco/Documents/github/VideoSender/tkDialog.py",
+		"/C/Users/franco/Documents/github/PYTHONEXAMPLES/MultiScreenKIVYExample.py",
+		"/C/Users/franco/Documents/github/VideoSender/fileChooserRunner.py",
+		"/C/Users/franco/Documents/github/VideoSender/downloadRequest.py",
+		"/C/Users/franco/Documents/github/VideoSender/fileChooser.py",
+		"/C/Users/franco/Documents/github/VideoSender/listtester.py",
+		"/C/Users/franco/Documents/github/VideoSender/tester.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/franco/Documents/github/VideoSender/tester2.py",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/main.pde",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/Neuron.pde",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/Network.pde",
+		"/C/Users/franco/Desktop/Test.java",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/javaPrintln.sublime-snippet",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/NetworkV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/StartV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/compileAndRun.bat",
+		"/C/Users/franco/Desktop/Matrix.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V1/NetworkV1.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/StartV1.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/NetworkV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/Start.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/Network.java",
+		"/C/Users/franco/Documents/github/JavaNet/README.md",
+		"/C/Users/franco/Documents/github/JavaNet/src/kompileAndRun.bat",
+		"/C/Users/franco/Documents/github/JavaNet/src/JavaNet.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/runFile.bat",
+		"/C/Users/franco/Documents/github/JavaNet/src/compile.bat",
+		"/C/Users/franco/Desktop/argfile.html",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/argFileSnippet.sublime-snippet",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/argSnippet.sublime-snippet",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/snip.sublime-snippet",
+		"/C/Users/franco/Documents/github/PythonNet/main",
+		"/C/Users/franco/Documents/github/JavaNet/src/argfile.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/argfile.txt",
+		"/C/Users/franco/Desktop/arg",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/testSnippet.py",
+		"/C/Users/franco/Desktop/main.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/forLoopJavaSnippet.sublime-snippet",
+		"/C/Program Files/Sublime Text 3/Packages/Java.sublime-package",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening A Video/capturing video",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening A Video/Opening A video.py",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening a picture.py",
+		"/C/Users/franco/Documents/OpenCV Python Projects/grey picture.png",
+		"/C/Users/franco/Documents/OpenCV Python Projects/cv2.pyd",
+		"/C/Users/franco/Python Programs/PythonProject/methods.py",
+		"/C/Users/franco/Python Programs/PythonProject/main.py",
+		"/C/Users/franco/Python Programs/Tests/main.py",
+		"/C/Users/franco/Python Programs/Tests/testModule.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fire",
+			"storm",
+			"fire",
+			"thunderstorm",
+			"hurricane",
+			"*",
+			"boa",
+			")\n",
+			"get_home",
+			"pep8",
+			"\");\n",
+			"error.add",
+			"}\n",
+			"1",
+			"\", "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 528.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "USART.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "USART.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 569.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22466,
+								22466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ja",
+				"src\\JavaNet.java"
+			],
+			[
+				"net",
+				"src\\Network.java"
+			],
+			[
+				"ar",
+				"src\\argfile.txt"
+			],
+			[
+				"",
+				"Opening a picture.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

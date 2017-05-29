@@ -160,7 +160,7 @@
 <text x="30.8991" y="1.3335" size="0.8128" layer="112" ratio="7">R17</text>
 <text x="34.7091" y="10.3378" size="0.8128" layer="112" ratio="7">C10</text>
 <text x="43.2562" y="10.4902" size="0.8128" layer="112" ratio="7">R3</text>
-<text x="43.2054" y="20.0914" size="0.8128" layer="112" ratio="7">R2</text>
+<text x="42.4053" y="20.193" size="0.8128" layer="112" ratio="7">R2</text>
 <text x="43.0276" y="29.718" size="0.8128" layer="112" ratio="7">R4</text>
 <text x="29.6164" y="29.5656" size="0.8128" layer="112" ratio="7">ATMEGA32U4</text>
 <text x="25.9461" y="36.3601" size="0.8128" layer="112" ratio="7" rot="R180">C7</text>
