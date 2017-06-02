@@ -4281,6 +4281,7 @@ With round pins</description>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
 <part name="LED4" library="adafruit" deviceset="LED" device="SMT1206"/>
 <part name="SUPPLY19" library="supply2" deviceset="GND" device=""/>
+<part name="P+5" library="supply1" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -4383,6 +4384,7 @@ With round pins</description>
 <instance part="P+4" gate="VCC" x="-162.56" y="38.1"/>
 <instance part="LED4" gate="G$1" x="-162.56" y="30.48" rot="R180"/>
 <instance part="SUPPLY19" gate="GND" x="-162.56" y="25.4"/>
+<instance part="P+5" gate="VCC" x="55.88" y="134.62"/>
 </instances>
 <busses>
 </busses>
@@ -4668,8 +4670,11 @@ With round pins</description>
 <segment>
 <pinref part="C7" gate="G$1" pin="1"/>
 <pinref part="L1" gate="G$1" pin="2"/>
-<wire x1="50.8" y1="132.08" x2="58.42" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="132.08" x2="55.88" y2="132.08" width="0.1524" layer="91"/>
 <label x="53.34" y="127" size="1.778" layer="95"/>
+<pinref part="P+5" gate="VCC" pin="VCC"/>
+<wire x1="55.88" y1="132.08" x2="58.42" y2="132.08" width="0.1524" layer="91"/>
+<junction x="55.88" y="132.08"/>
 </segment>
 <segment>
 <pinref part="C15" gate="G$1" pin="2"/>
@@ -4842,6 +4847,7 @@ With round pins</description>
 <segment>
 <pinref part="IC1" gate="G$1" pin="3V3OUT"/>
 <wire x1="53.34" y1="121.92" x2="50.8" y2="121.92" width="0.1524" layer="91"/>
+<label x="48.26" y="124.46" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="!RESET"/>
@@ -4850,6 +4856,7 @@ With round pins</description>
 <wire x1="48.26" y1="101.6" x2="48.26" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="104.14" x2="53.34" y2="104.14" width="0.1524" layer="91"/>
 <junction x="53.34" y="104.14"/>
+<label x="45.72" y="106.68" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>

@@ -4276,6 +4276,9 @@ With round pins</description>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
 <part name="JP4" library="adafruit" deviceset="PINHD-1X1" device=""/>
 <part name="JP5" library="adafruit" deviceset="PINHD-1X1" device=""/>
+<part name="P+4" library="supply1" deviceset="VCC" device=""/>
+<part name="LED4" library="adafruit" deviceset="LED" device="SMT1206"/>
+<part name="SUPPLY19" library="supply2" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -4301,6 +4304,7 @@ With round pins</description>
 <wire x1="20.32" y1="81.534" x2="20.32" y2="152.4" width="1.27" layer="98"/>
 <text x="40.64" y="142.24" size="2.54" layer="91">USB to Serial Converter</text>
 <wire x1="20.32" y1="81.28" x2="121.92" y2="81.28" width="1.27" layer="98"/>
+<text x="-172.72" y="43.18" size="2.54" layer="91">Power LED</text>
 </plain>
 <instances>
 <instance part="U$1" gate="A" x="-180.34" y="119.38"/>
@@ -4374,6 +4378,9 @@ With round pins</description>
 <instance part="P+3" gate="VCC" x="43.18" y="50.8"/>
 <instance part="JP4" gate="G$1" x="0" y="2.54"/>
 <instance part="JP5" gate="G$1" x="0" y="-2.54"/>
+<instance part="P+4" gate="VCC" x="-162.56" y="38.1"/>
+<instance part="LED4" gate="G$1" x="-162.56" y="30.48" rot="R180"/>
+<instance part="SUPPLY19" gate="GND" x="-162.56" y="25.4"/>
 </instances>
 <busses>
 </busses>
@@ -4575,6 +4582,10 @@ With round pins</description>
 <pinref part="U$3" gate="G$1" pin="BS2"/>
 <wire x1="55.88" y1="40.64" x2="48.26" y2="40.64" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="LED4" gate="G$1" pin="A"/>
+<pinref part="SUPPLY19" gate="GND" pin="GND"/>
+</segment>
 </net>
 <net name="VCC" class="0">
 <segment>
@@ -4685,6 +4696,10 @@ With round pins</description>
 <pinref part="R13" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="25.4" x2="35.56" y2="17.78" width="0.1524" layer="91"/>
 <label x="25.4" y="20.32" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="P+4" gate="VCC" pin="VCC"/>
+<pinref part="LED4" gate="G$1" pin="C"/>
 </segment>
 </net>
 <net name="VBAT+" class="0">

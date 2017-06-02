@@ -1,9 +1,10 @@
 #My make file
 #OLED Watch MakeFile
 CC=avr-gcc
-OBJECTS = main.o USART.o oled_lib.o
+OBJECTS = main.o my_USART.o 
+#stored Libraries USART.o oled_lib.o
 MCU=atmega32u4
-F_CPU = 8000000UL
+F_CPU = 1000000UL
 CFLAGS=-Os -F_CPU=1000000UL -mmcu=${MCU}
 PROGRAMMER = usbtiny
 

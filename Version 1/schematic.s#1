@@ -4230,7 +4230,9 @@ With round pins</description>
 <part name="C8" library="eagle-ltspice" deviceset="C" device="C0504" value="4.7uF"/>
 <part name="C9" library="eagle-ltspice" deviceset="C" device="C0504" value="100nF"/>
 <part name="C10" library="eagle-ltspice" deviceset="C" device="C0504" value="100nF"/>
-<part name="R6" library="eagle-ltspice" deviceset="R" device="R0603" value="27"/>
+<part name="R6" library="eagle-ltspice" deviceset="R" device="R0603" value="27">
+<attribute name="SPICEPREFIX" value="R6"/>
+</part>
 <part name="R7" library="eagle-ltspice" deviceset="R" device="R0603" value="27"/>
 <part name="R8" library="eagle-ltspice" deviceset="R" device="R0603" value="10K"/>
 <part name="R9" library="eagle-ltspice" deviceset="R" device="R0603" value="10K"/>
