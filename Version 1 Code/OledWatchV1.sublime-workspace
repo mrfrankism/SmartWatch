@@ -1,0 +1,946 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test_buttons"
+			],
+			[
+				"pin",
+				"PIN"
+			],
+			[
+				"UCS",
+				"UCSR1B"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"S",
+				"set_low"
+			],
+			[
+				"LED",
+				"LED1"
+			],
+			[
+				"set",
+				"set_high"
+			],
+			[
+				"dela",
+				"_delay_ms"
+			],
+			[
+				"SPI",
+				"SPI_transcieve"
+			],
+			[
+				"spim",
+				"SPI_MSTR"
+			],
+			[
+				"SPIcl",
+				"SPI_CLK1"
+			],
+			[
+				"SPIs",
+				"SPI_SCL"
+			],
+			[
+				"SPIM",
+				"SPI_MOSI"
+			],
+			[
+				"transmit",
+				"transmitByte"
+			],
+			[
+				"mast",
+				"SPI_masterrecieve"
+			],
+			[
+				"spi",
+				"SPI_masterrecieve"
+			],
+			[
+				"print",
+				"printString"
+			],
+			[
+				"AT",
+				"atmega328p"
+			],
+			[
+				"layer",
+				"layerLength"
+			],
+			[
+				"net",
+				"net_topography"
+			],
+			[
+				"feed",
+				"feedForward"
+			],
+			[
+				"in",
+				"inputData"
+			],
+			[
+				"get",
+				"getNumberOfNeurons"
+			],
+			[
+				"a",
+				"activationValue"
+			],
+			[
+				"weight",
+				"weightedInput"
+			],
+			[
+				"son",
+				"song_name"
+			],
+			[
+				"No",
+				"None\tkeyword"
+			],
+			[
+				"star",
+				"start_new_thread\tfunction"
+			],
+			[
+				"upload",
+				"upload_file\tfunction"
+			],
+			[
+				"chane",
+				"change_screen_button\tstatement"
+			],
+			[
+				"button",
+				"button_layout\tstatement"
+			],
+			[
+				"change",
+				"change_screen_button\tstatement"
+			],
+			[
+				"cato",
+				"cato\tstatement"
+			],
+			[
+				"uploa",
+				"upload_files"
+			],
+			[
+				"xml",
+				"xml_tree"
+			],
+			[
+				"en",
+				"entry_point\tparam"
+			],
+			[
+				"dir",
+				"directory\tforstmt"
+			],
+			[
+				"cat",
+				"cataloger\tclass"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"entry",
+				"entry_point"
+			],
+			[
+				"E",
+				"ElementTree\tmodule"
+			],
+			[
+				"Elem",
+				"ElementTree\tmodule"
+			],
+			[
+				"Ele",
+				"Element"
+			],
+			[
+				"music",
+				"music_file\tstatement"
+			],
+			[
+				"sle",
+				"selection"
+			],
+			[
+				"choose_folder",
+				"choose_folder_button\tstatement"
+			],
+			[
+				"Inde",
+				"IndexError\tclass"
+			],
+			[
+				"file",
+				"FileChooserListView\tclass"
+			],
+			[
+				"File",
+				"FileSystemAbstract\tclass"
+			],
+			[
+				"choosle",
+				"choose_file_button\tstatement"
+			],
+			[
+				"param",
+				"param2\tparam"
+			],
+			[
+				"choose",
+				"choose_file"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"screen",
+				"screen2\tstatement"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"up",
+				"upload_file"
+			],
+			[
+				"down",
+				"downloadRequest\tmodule"
+			],
+			[
+				"new",
+				"newWindow\tclass"
+			],
+			[
+				"Sc",
+				"ScreenManager\tclass"
+			],
+			[
+				"fileCH",
+				"fileChooserRunner\tmodule"
+			],
+			[
+				"run",
+				"runTouchApp\tfunction"
+			],
+			[
+				"list",
+				"listtester\tmodule"
+			],
+			[
+				"dow",
+				"downloadRequest"
+			],
+			[
+				"downa",
+				"download_file"
+			],
+			[
+				"ap",
+				"App\tclass"
+			],
+			[
+				"last",
+				"lastError"
+			],
+			[
+				"sig",
+				"sigDerivative"
+			],
+			[
+				"arr",
+				"arrayTimes"
+			],
+			[
+				"time",
+				"arrayTimes"
+			],
+			[
+				"error",
+				"errorLastLayer"
+			],
+			[
+				"network",
+				"networkStructure"
+			],
+			[
+				"int",
+				"indexLastLayerActivation"
+			],
+			[
+				"row",
+				"getRowDimension"
+			],
+			[
+				"index",
+				"indexLastLayerActivation"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"col",
+				"getColumnDimension"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"Net",
+				"NetworkV2"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Ma",
+				"Matrix"
+			],
+			[
+				"tmp",
+				"tmpErrorArray"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"im",
+				"imt\timport junit.framework.TestCase;"
+			],
+			[
+				"lear",
+				"learningRate"
+			],
+			[
+				"fr",
+				"for\tforLoopJavaSnippet"
+			],
+			[
+				"Eve",
+				"EVENT_LBUTTONDBLCLK\tinstance"
+			],
+			[
+				"destroy",
+				"destroyAllWindows\tfunction"
+			],
+			[
+				"color_bgr2",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"IMREAD",
+				"IMREAD_COLOR\tinstance"
+			],
+			[
+				"cac",
+				"caca2"
+			],
+			[
+				"ca",
+				"caca2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "my_USART.c",
+			"settings":
+			{
+				"buffer_size": 883,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "//"
+			}
+		},
+		{
+			"contents": "█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o my_USART.o my_USART.c\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: r█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o my_USART.o my_USART.c\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.01s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (328 bytes):\n\nWriting | ################################################## | 100% 0.51s\n\navrdude: 328 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 328 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.32s\n\navrdude: verifying ...\navrdude: 328 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o my_USART.o my_USART.c\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (322 bytes):\n\nWriting | ################################################## | 100% 0.50s\n\navrdude: 322 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 322 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.30s\n\navrdude: verifying ...\navrdude: 322 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o my_USART.o my_USART.c\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\neading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (328 bytes):\n\nWriting | ################################################## | 100% 0.52s\n\navrdude: 328 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 328 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.30s\n\navrdude: verifying ...\navrdude: 328 bytes of flash verified\n\navrdude done.  Thank you.\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\r\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\r\n\r\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\r\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\r\n         Copyright (c) 2007-2009 Joerg Wunsch\r\n\r\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\r\n\r\n         Using Port                    : lpt1\r\n         Using Programmer              : usbtiny\r\n         AVR Part                      : ATmega32U4\r\n         Chip Erase delay              : 9000 us\r\n         PAGEL                         : PD7\r\n         BS2                           : PA0\r\n         RESET disposition             : dedicated\r\n         RETRY pulse                   : SCK\r\n         serial program mode           : yes\r\n         parallel program mode         : yes\r\n         Timeout                       : 200\r\n         StabDelay                     : 100\r\n         CmdexeDelay                   : 25\r\n         SyncLoops                     : 32\r\n         ByteDelay                     : 0\r\n         PollIndex                     : 3\r\n         PollValue                     : 0x53\r\n         Memory Detail                 :\r\n\r\n                                  Block Poll               Page                       Polled\r\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\r\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\r\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\r\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\r\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\r\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\r\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\r\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\r\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\r\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\r\n\r\n         Programmer Type : USBtiny\r\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\r\navrdude: programmer operation not supported\r\n\r\navrdude: Using SCK period of 10 usec\r\navrdude: initialization failed, rc=-1\r\n         Double check connections and try again, or use -F to override\r\n         this check.\r\n\r\n\r\navrdude done.  Thank you.\r\n\r\nmake: *** [install] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (344 bytes):\n\nWriting | ################################################## | 100% 0.53s\n\navrdude: 344 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 344 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.33s\n\navrdude: verifying ...\navrdude: 344 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make \navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (344 bytes):\n\nWriting | ################################################## | 100% 0.53s\n\navrdude: 344 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 344 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.33s\n\navrdude: verifying ...\navrdude: 344 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'main':\r\nmain.c:76: error: expected ')' before '{' token\r\nmain.c:81: error: expected expression before '}' token\r\nmake: *** [main.o] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'main':\r\nmain.c:77: error: too few arguments to function 'transmitByte'\r\nmake: *** [main.o] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.01s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (346 bytes):\n\nWriting | ################################################## | 100% 0.53s\n\navrdude: 346 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 346 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.33s\n\navrdude: verifying ...\navrdude: 346 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\nmake: Nothing to be done for `all'.\n\n\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (346 bytes):\n\nWriting | ################################################## | 100% 0.54s\n\navrdude: 346 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 346 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.32s\n\navrdude: verifying ...\navrdude: 346 bytes of flash verified\n\navrdude do█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4   -c -o my_USART.o my_USART.c\navr-gcc -Os -F_CPU=8000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (346 bytes):\n\nWriting | ################################################## | 100% 0.54s\n\navrdude: 346 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 346 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.33s\n\navrdude: verifying ...\navrdude: 346 bytes of flash verified\n\navrdude done.  Thank you.\n\n\nne.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\nmake: Nothing to be done for `all'.\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.00s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (350 bytes):\n\nWriting | ################################################## | 100% 0.55s\n\navrdude: 350 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 350 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.34s\n\navrdude: verifying ...\navrdude: 350 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'test_buttons':\r\nmain.c:49: error: lvalue required as left operand of assignment\r\nmake: *** [main.o] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\r\nIn file included from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\r\nIn file included from main.c:3:\r\nUSART.h:11:1: warning: \"F_CPU\" redefined\r\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\r\n                 from main.c:2:\r\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\r\nmain.c: In function 'test_buttons':\r\nmain.c:49: error: lvalue required as left operand of assignment\r\nmake: *** [main.o] Error 1\r\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.01s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (374 bytes):\n\nWriting | ################################################## | 100% 0.58s\n\navrdude: 374 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 374 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.36s\n\navrdude: verifying ...\navrdude: 374 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4   -c -o main.o main.c\nIn file included from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:36:2: warning: #warning \"This file has been moved to <util/delay.h>.\"\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:85:3: warning: #warning \"F_CPU not defined for <util/delay.h>\"\nIn file included from main.c:3:\nUSART.h:11:1: warning: \"F_CPU\" redefined\nIn file included from c:/winavr-20100110/lib/gcc/../../avr/include/avr/delay.h:37,\n                 from main.c:2:\nc:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:86:1: warning: this is the location of the previous definition\navr-gcc -Os -F_CPU=1000000UL -mmcu=atmega32u4 -o main.elf main.o my_USART.o \navr-objcopy -j .text -j .data -O ihex main.elf main.hex\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code ] make install\n#avrdude -v -p atmega32u4 -c arduino -P COM4 -b 115200 -D -U flash:w:main.hex\navrdude -v -c usbtiny -p atmega32u4 -U flash:w:main.hex\n\navrdude: Version 5.10, compiled on Jan 19 2010 at 10:45:23\n         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/\n         Copyright (c) 2007-2009 Joerg Wunsch\n\n         System wide configuration file is \"C:\\WinAVR-20100110\\bin\\avrdude.conf\"\n\n         Using Port                    : lpt1\n         Using Programmer              : usbtiny\n         AVR Part                      : ATmega32U4\n         Chip Erase delay              : 9000 us\n         PAGEL                         : PD7\n         BS2                           : PA0\n         RESET disposition             : dedicated\n         RETRY pulse                   : SCK\n         serial program mode           : yes\n         parallel program mode         : yes\n         Timeout                       : 200\n         StabDelay                     : 100\n         CmdexeDelay                   : 25\n         SyncLoops                     : 32\n         ByteDelay                     : 0\n         PollIndex                     : 3\n         PollValue                     : 0x53\n         Memory Detail                 :\n\n                                  Block Poll               Page                       Polled\n           Memory Type Mode Delay Size  Indx Paged  Size   Size #Pages MinW  MaxW   ReadBack\n           ----------- ---- ----- ----- ---- ------ ------ ---- ------ ----- ----- ---------\n           eeprom        65    10     8    0 no       1024    8      0  9000  9000 0x00 0x00\n           flash         65     6   128    0 yes     32768  128    256  4500  4500 0x00 0x00\n           lfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           hfuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           efuse          0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           lock           0     0     0    0 no          1    0      0  9000  9000 0x00 0x00\n           calibration    0     0     0    0 no          1    0      0     0     0 0x00 0x00\n           signature      0     0     0    0 no          3    0      0     0     0 0x00 0x00\n\n         Programmer Type : USBtiny\n         Description     : USBtiny simple USB programmer, http://www.ladyada.net/make/usbtinyisp/\navrdude: programmer operation not supported\n\navrdude: Using SCK period of 10 usec\navrdude: AVR device initialized and ready to accept instructions\n\nReading | ################################################## | 100% 0.01s\n\navrdude: Device signature = 0x1e9587\navrdude: NOTE: FLASH memory has been specified, an erase cycle will be performed\n         To disable this feature, specify the -D option.\navrdude: erasing chip\navrdude: Using SCK period of 10 usec\navrdude: reading input file \"main.hex\"\navrdude: input file main.hex auto detected as Intel Hex\navrdude: writing flash (358 bytes):\n\nWriting | ################################################## | 100% 0.56s\n\navrdude: 358 bytes of flash written\navrdude: verifying flash memory against main.hex:\navrdude: load data flash data from input file main.hex:\navrdude: input file main.hex auto detected as Intel Hex\navrdude: input file main.hex contains 358 bytes\navrdude: reading on-chip flash data:\n\nReading | ################################################## | 100% 0.34s\n\navrdude: verifying ...\navrdude: 358 bytes of flash verified\n\navrdude done.  Thank you.\n\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1 ] cd ..\nC:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1 ] ls\nCode\nOledSmartWatch_v1_gerbs.zip\neagle.epf\nschematic.b#1\nschematic.b#2\nschematic.b#3\nschematic.b#4\nschematic.b#5\nschematic.b#6\nschematic.b#7\nschematic.b#8\nschematic.b#9\nschematic.brd\nschematic.pro\nschematic.s#1\nschematic.s#2\nschematic.s#3\nschematic.s#4\nschematic.s#5\nschematic.s#6\nschematic.s#7\nschematic.s#8\nschematic.s#9\nschematic.sch\nschematic_00.job\nschematic_01.job\nschematic_02.job\nschematic_03.job\nschematic_04.job\nuntitled.b##\nuntitled.s##\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1 ] git add *\nwarning: LF will be replaced by CRLF in Version 1/Code/OledWatchV1.sublime-workspace.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#1.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#2.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#3.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#4.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#5.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#6.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#7.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#8.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.s#9.\nThe file will have its original line endings in your working directory.\nwarning: LF will be replaced by CRLF in Version 1/schematic.sch.\nThe file will have its original line endings in your working directory.\n\n█ [ C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1 ] git commit -m \"saving to git\"\nerror: pathspec 'to' did not match any file(s) known to git.\nerror: pathspec 'git' did not match any file(s) known to git.\n\n",
+			"settings":
+			{
+				"buffer_size": 58711,
+				"line_ending": "Windows",
+				"name": "terminal.glue"
+			}
+		},
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "makefile",
+			"settings":
+			{
+				"buffer_size": 498,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "glue",
+		"selected_items":
+		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sheel",
+				"Shell Exec: Open"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"sspython",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjaa",
+				"Set Syntax: Java"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python"
+			],
+			[
+				"sspy",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Snippet: ",
+				"Snippet: snip"
+			],
+			[
+				"set syntax java",
+				"Set Syntax: Java"
+			],
+			[
+				"set syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Javatar: Operations..."
+			],
+			[
+				"anacon",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"ja",
+				"Javatar: Builds..."
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"javac",
+			"cd ",
+			"caca",
+			"run",
+			"help",
+			"python",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code"
+	],
+	"file_history":
+	[
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/main.c",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/my_USART.h",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/makefile",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/USART.c",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/USART.h",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_slave/main.c",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/oled_lib.cpp",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/oled_lib.h",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_slave/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/main.c",
+		"/C/Users/franco/Documents/eagle/Oled Smartwatch/Version 1/Code/terminal.glue",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/Simple_Blink.c",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/blink.c",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/USART.c",
+		"/C/Users/franco/Documents/2017 Summer Research/Blink/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/spi_master/USART.h",
+		"/C/Users/franco/Documents/2017 Summer Research/Simple_Blink.c",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Makefile.sublime-settings",
+		"/C/Users/franco/Documents/2017 Summer Research/makefile",
+		"/C/Users/franco/Documents/2017 Summer Research/SPI/SPI_com.c",
+		"/C/Users/franco/Documents/2017 Summer Research/blink.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_03.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_02.c",
+		"/C/Users/franco/Desktop/msp430g2x11_ca_01.c",
+		"/C/Users/franco/Desktop/Software Development/Demo Source Code (Java)/GAO 217001 Sample Code/GAO217001Sample.java",
+		"/C/Users/franco/Documents/github/Traveling Salesman/Node.py",
+		"/C/Users/franco/Documents/github/Traveling Salesman/main.py",
+		"/C/Users/franco/Documents/github/PythonNet/gitinit.bat",
+		"/C/Users/franco/Documents/github/PythonNet/Neuron.py",
+		"/C/Users/franco/Documents/github/PythonNet/Network.py",
+		"/C/Users/franco/Documents/github/PythonNet/tester.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/franco/Documents/github/NeuralNetwork/README.md",
+		"/C/Users/franco/Documents/github/ComicDownloader/argfile",
+		"/C/Users/franco/Documents/github/ComicDownloader/ComicDownloader.java",
+		"/C/Users/franco/Documents/github/Light Weight Java Compilation Tool/JavaComiplerV2.bat",
+		"/C/Users/franco/Documents/github/VideoSender/KivyApp.py",
+		"/C/Users/franco/Documents/github/VideoSender/testerTkinter.py",
+		"/C/Users/franco/Documents/github/VideoSender/debugger.py",
+		"/C/Users/franco/Documents/github/VideoSender/string find tester.py",
+		"/C/Users/franco/Documents/github/VideoSender/tkDialog.py",
+		"/C/Users/franco/Documents/github/PYTHONEXAMPLES/MultiScreenKIVYExample.py",
+		"/C/Users/franco/Documents/github/VideoSender/fileChooserRunner.py",
+		"/C/Users/franco/Documents/github/VideoSender/downloadRequest.py",
+		"/C/Users/franco/Documents/github/VideoSender/fileChooser.py",
+		"/C/Users/franco/Documents/github/VideoSender/listtester.py",
+		"/C/Users/franco/Documents/github/VideoSender/tester.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/franco/Documents/github/VideoSender/tester2.py",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/main.pde",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/Neuron.pde",
+		"/C/Users/franco/Documents/github/NeuralNetwork/Processing/Network/Network.pde",
+		"/C/Users/franco/Desktop/Test.java",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/javaPrintln.sublime-snippet",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/NetworkV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/StartV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/compileAndRun.bat",
+		"/C/Users/franco/Desktop/Matrix.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V1/NetworkV1.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/V2/StartV1.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/NetworkV2.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/Start.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/Network.java",
+		"/C/Users/franco/Documents/github/JavaNet/README.md",
+		"/C/Users/franco/Documents/github/JavaNet/src/kompileAndRun.bat",
+		"/C/Users/franco/Documents/github/JavaNet/src/JavaNet.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/runFile.bat",
+		"/C/Users/franco/Documents/github/JavaNet/src/compile.bat",
+		"/C/Users/franco/Desktop/argfile.html",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/argFileSnippet.sublime-snippet",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/argSnippet.sublime-snippet",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/snip.sublime-snippet",
+		"/C/Users/franco/Documents/github/PythonNet/main",
+		"/C/Users/franco/Documents/github/JavaNet/src/argfile.java",
+		"/C/Users/franco/Documents/github/JavaNet/src/argfile.txt",
+		"/C/Users/franco/Desktop/arg",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/testSnippet.py",
+		"/C/Users/franco/Desktop/main.py",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/forLoopJavaSnippet.sublime-snippet",
+		"/C/Program Files/Sublime Text 3/Packages/Java.sublime-package",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/franco/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening A Video/capturing video",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening A Video/Opening A video.py",
+		"/C/Users/franco/Documents/OpenCV Python Projects/Opening a picture.py",
+		"/C/Users/franco/Documents/OpenCV Python Projects/grey picture.png",
+		"/C/Users/franco/Documents/OpenCV Python Projects/cv2.pyd",
+		"/C/Users/franco/Python Programs/PythonProject/methods.py",
+		"/C/Users/franco/Python Programs/PythonProject/main.py",
+		"/C/Users/franco/Python Programs/Tests/main.py",
+		"/C/Users/franco/Python Programs/Tests/testModule.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fire",
+			"storm",
+			"fire",
+			"thunderstorm",
+			"hurricane",
+			"*",
+			"boa",
+			")\n",
+			"get_home",
+			"pep8",
+			"\");\n",
+			"error.add",
+			"}\n",
+			"1",
+			"\", "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\franco\\Documents\\eagle\\Oled Smartwatch\\Version 1\\Code"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "my_USART.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//",
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58711,
+								58711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 35810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1115,
+								1115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 746.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ja",
+				"src\\JavaNet.java"
+			],
+			[
+				"net",
+				"src\\Network.java"
+			],
+			[
+				"ar",
+				"src\\argfile.txt"
+			],
+			[
+				"",
+				"Opening a picture.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
