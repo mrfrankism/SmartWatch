@@ -348,10 +348,14 @@ UsedLibrary="C:/EAGLE 8.1.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE 8.1.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE 8.1.0/lbr/zilog.lbr"
 UsedLibrary="C:/Users/franco/Documents/eagle/Libraries/user_created/adafruit.lbr"
+UsedLibrary="C:/Users/franco/Documents/eagle/Libraries/user_created/nxp_60_1_1.lbr"
+UsedLibrary="C:/Users/franco/Documents/eagle/Libraries/user_created/ref-packages.lbr"
+UsedLibrary="C:/Users/franco/Documents/eagle/Libraries/user_created/SOT346-R.lbr"
+UsedLibrary="C:/Users/franco/Documents/eagle/Libraries/user_created/Supply.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="0 215 1073 799"
+Loc="-9 -38 1190 561"
 State=2
 Number=0
 
