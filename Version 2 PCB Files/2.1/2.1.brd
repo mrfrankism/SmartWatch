@@ -534,39 +534,6 @@ Source: http://www.murata.com/ Ferrite Bead BLM15H.pdf</description>
 <rectangle x1="-6.604" y1="-0.254" x2="-6.096" y2="0.254" layer="51"/>
 <rectangle x1="6.096" y1="-0.254" x2="6.604" y2="0.254" layer="51"/>
 </package>
-<package name="1X03">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-3.175" y1="1.27" x2="-1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="1.27" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="0.635" x2="-1.27" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="-0.635" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="0.635" x2="-0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="1.27" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="1.27" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="0.635" x2="1.27" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="-0.635" x2="0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-1.27" x2="-0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="-1.27" x2="-1.27" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="0.635" x2="-3.81" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-3.175" y1="1.27" x2="-3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-3.81" y1="-0.635" x2="-3.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="-1.27" x2="-3.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="0.635" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="1.27" x2="3.175" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="1.27" x2="3.81" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="0.635" x2="3.81" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="3.81" y1="-0.635" x2="3.175" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="3.175" y1="-1.27" x2="1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="-1.27" x2="1.27" y2="-0.635" width="0.1524" layer="21"/>
-<pad name="1" x="-2.54" y="0" drill="1.016" rot="R90"/>
-<pad name="2" x="0" y="0" drill="1.016" rot="R90"/>
-<pad name="3" x="2.54" y="0" drill="1.016" rot="R90"/>
-<text x="-3.8862" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-3.81" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
-<rectangle x1="-2.794" y1="-0.254" x2="-2.286" y2="0.254" layer="51"/>
-<rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
-</package>
 <package name="1206">
 <description>&lt;b&gt;CHICAGO MINIATURE LAMP, INC.&lt;/b&gt;&lt;p&gt;
 7022X Series SMT LEDs 1206 Package Size</description>
@@ -1925,6 +1892,57 @@ body 3.9 mm/JEDEC MS-012AA</description>
 </package>
 </packages>
 </library>
+<library name="con-lstb">
+<description>&lt;b&gt;Pin Headers&lt;/b&gt;&lt;p&gt;
+Naming:&lt;p&gt;
+MA = male&lt;p&gt;
+# contacts - # rows&lt;p&gt;
+W = angled&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="MA04-1">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<wire x1="-4.445" y1="1.27" x2="-3.175" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="1.27" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="-0.635" x2="-3.175" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="0.635" x2="-1.905" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="1.27" x2="-0.635" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="1.27" x2="0" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="-0.635" x2="-0.635" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="-1.27" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="-1.27" x2="-2.54" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="0.635" x2="-5.08" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="-4.445" y1="1.27" x2="-5.08" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="-0.635" x2="-4.445" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="-1.27" x2="-4.445" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="0" y1="0.635" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="1.27" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="-0.635" x2="1.905" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="-1.27" x2="0.635" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="-1.27" x2="0" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="1.27" x2="4.445" y2="1.27" width="0.1524" layer="21"/>
+<wire x1="4.445" y1="1.27" x2="5.08" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="5.08" y1="0.635" x2="5.08" y2="-0.635" width="0.1524" layer="21"/>
+<wire x1="5.08" y1="-0.635" x2="4.445" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="-0.635" x2="3.175" y2="-1.27" width="0.1524" layer="21"/>
+<wire x1="4.445" y1="-1.27" x2="3.175" y2="-1.27" width="0.1524" layer="21"/>
+<pad name="1" x="-3.81" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="2" x="-1.27" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="3" x="1.27" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="4" x="3.81" y="0" drill="1.016" shape="long" rot="R90"/>
+<text x="-5.08" y="1.651" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-6.223" y="-0.635" size="1.27" layer="21" ratio="10">1</text>
+<text x="0.635" y="1.651" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="5.334" y="-0.635" size="1.27" layer="21" ratio="10">4</text>
+<rectangle x1="-1.524" y1="-0.254" x2="-1.016" y2="0.254" layer="51"/>
+<rectangle x1="-4.064" y1="-0.254" x2="-3.556" y2="0.254" layer="51"/>
+<rectangle x1="1.016" y1="-0.254" x2="1.524" y2="0.254" layer="51"/>
+<rectangle x1="3.556" y1="-0.254" x2="4.064" y2="0.254" layer="51"/>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2175,7 +2193,12 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="SPICEMODEL" value="NONE" x="22.7507" y="6.3277" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="SPICEPREFIX" value="R" x="22.7507" y="6.3277" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="JP3" library="adafruit" package="1X03" value="" x="1.27" y="15.875" rot="R90"/>
+<element name="JP3" library="con-lstb" package="MA04-1" value="" x="1.27" y="15.875" rot="R90">
+<attribute name="MF" value="" x="1.27" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MPN" value="" x="1.27" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_FARNELL" value="unknown" x="1.27" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="OC_NEWARK" value="unknown" x="1.27" y="15.875" size="1.778" layer="27" rot="R90" display="off"/>
+</element>
 <element name="LED4" library="adafruit" package="1206" value="" x="13.3658" y="35.3401" rot="R180"/>
 <element name="D1" library="diode" package="SOD323_ST" value="BAT60J" x="7.1" y="28.5171" rot="MR90"/>
 <element name="U$2" library="SOT346-R" package="SOT346-R" value="2JS305" x="9.5001" y="29.6691" rot="MR90"/>
@@ -2322,11 +2345,11 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="14.7878" y1="35.3401" x2="26.6692" y2="40.4043" width="0" layer="19" extent="1-16"/>
 <wire x1="7.446" y1="33.9453" x2="14.7878" y2="35.3401" width="0" layer="19" extent="1-16"/>
 <wire x1="2.75" y1="27.7" x2="2.3875" y2="31.5583" width="0" layer="19" extent="1-1"/>
-<wire x1="1.27" y1="18.415" x2="3.6896" y2="26.7604" width="0" layer="19" extent="16-16"/>
+<wire x1="1.27" y1="17.145" x2="3.6896" y2="26.7604" width="0" layer="19" extent="16-16"/>
 <wire x1="5.4597" y1="48.0936" x2="6.6792" y2="35.4198" width="0" layer="19" extent="1-1"/>
 <wire x1="5.4597" y1="55.0936" x2="5.4597" y2="48.0936" width="0" layer="19" extent="1-1"/>
 <wire x1="11.4597" y1="55.0936" x2="5.4597" y2="55.0936" width="0" layer="19" extent="1-1"/>
-<wire x1="8.715" y1="5.55" x2="1.27" y2="18.415" width="0" layer="19" extent="1-1"/>
+<wire x1="8.715" y1="5.55" x2="1.27" y2="17.145" width="0" layer="19" extent="1-1"/>
 <wire x1="34.8837" y1="2.8481" x2="22.505" y2="5.1525" width="0" layer="19" extent="1-16"/>
 <wire x1="35.8837" y1="2.8481" x2="34.8837" y2="2.8481" width="0" layer="19" extent="16-16"/>
 <wire x1="34.3361" y1="0.7815" x2="34.8837" y2="2.8481" width="0" layer="19" extent="16-16"/>
@@ -2524,8 +2547,8 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="4.0318" y1="32.1292" x2="4.0318" y2="31.8059125" width="0.1524" layer="16"/>
 <wire x1="5.4796" y1="30.3581125" x2="5.4796" y2="29.8178" width="0.1524" layer="16"/>
 <wire x1="4.0318" y1="31.8059125" x2="5.4796" y2="30.3581125" width="0.1524" layer="16"/>
-<wire x1="1.27" y1="13.335" x2="5.4796" y2="29.8178" width="0" layer="19" extent="16-16"/>
-<wire x1="8.715" y1="7.95" x2="1.27" y2="13.335" width="0" layer="19" extent="1-1"/>
+<wire x1="1.27" y1="12.065" x2="5.4796" y2="29.8178" width="0" layer="19" extent="16-16"/>
+<wire x1="8.715" y1="7.95" x2="1.27" y2="12.065" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="FTDI_VCC">
 <contactref element="IC1" pad="12"/>
@@ -2577,7 +2600,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="8.4963" y1="31.8729" x2="6.4715125" y2="31.8729" width="0.1524" layer="16"/>
 <wire x1="6.4715125" y1="31.8729" x2="5.7834125" y2="32.561" width="0.1524" layer="16"/>
 <wire x1="5.4796" y1="32.561" x2="5.696" y2="33.9453" width="0" layer="19" extent="16-16"/>
-<wire x1="1.27" y1="15.875" x2="10.7001" y2="29.6691" width="0" layer="19" extent="16-16"/>
+<wire x1="1.27" y1="14.605" x2="10.7001" y2="29.6691" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="VDD">
 <contactref element="C19" pad="1"/>
@@ -2597,8 +2620,10 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="7.6337" y1="28.6392" x2="7.6337" y2="29.0924875" width="0.1524" layer="1"/>
 <wire x1="7.6337" y1="29.0924875" x2="6.9178875" y2="29.8083" width="0.1524" layer="1"/>
 <wire x1="6.9178875" y1="29.8083" x2="2.3875" y2="29.8083" width="0.1524" layer="1"/>
+<contactref element="JP3" pad="4"/>
 <wire x1="8.3001" y1="28.7191" x2="64.65" y2="94" width="0" layer="19" extent="16-16"/>
 <wire x1="7.6337" y1="28.6392" x2="8.3001" y2="28.7191" width="0" layer="19" extent="1-16"/>
+<wire x1="1.27" y1="19.685" x2="4.1305" y2="28.4604" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="N$4">
 <wire x1="-32" y1="0" x2="-32" y2="37" width="0.1524" layer="1"/>

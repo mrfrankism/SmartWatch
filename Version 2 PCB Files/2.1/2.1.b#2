@@ -2458,10 +2458,10 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="22.7507" y1="7.1777" x2="21.9721" y2="6.3991" width="0.1524" layer="16"/>
 <wire x1="21.9721" y1="6.3991" x2="21.9721" y2="4.8830125" width="0.1524" layer="16"/>
 <wire x1="22.7059" y1="3.7256" x2="22.8303" y2="3.85" width="0.1524" layer="16"/>
-<wire x1="22.8303" y1="3.85" x2="23.75" y2="3.85" width="0.1524" layer="16"/>
-<via x="23.75" y="3.85" extent="1-16" drill="0.3"/>
-<wire x1="23.75" y1="3.85" x2="23.7" y2="3.8" width="0.1524" layer="1"/>
-<wire x1="23.7" y1="3.8" x2="22.4225" y2="3.8" width="0.1524" layer="1"/>
+<wire x1="22.8303" y1="3.85" x2="23.8" y2="3.85" width="0.1524" layer="16"/>
+<via x="23.8" y="3.85" extent="1-16" drill="0.3"/>
+<wire x1="23.8" y1="3.85" x2="23.75" y2="3.8" width="0.1524" layer="1"/>
+<wire x1="23.75" y1="3.8" x2="22.4225" y2="3.8" width="0.1524" layer="1"/>
 </signal>
 <signal name="TXD">
 <contactref element="IC1" pad="4"/>
