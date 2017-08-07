@@ -7099,6 +7099,91 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="10pinzif">
+<packages>
+<package name="CON10_1X10_DBR_XF2L">
+<smd name="1" x="2.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="2" x="1.75" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="3" x="1.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="4" x="0.75" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="5" x="0.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="6" x="-0.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="7" x="-0.75" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="8" x="-1.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="9" x="-1.75" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="10" x="-2.25" y="2.286" dx="1.016" dy="0.254" layer="1" rot="R270"/>
+<smd name="11" x="-4.572" y="4.0132" dx="1.016" dy="1.3462" layer="1"/>
+<smd name="12" x="4.572" y="4.0132" dx="1.016" dy="1.3462" layer="1"/>
+<wire x1="-5.08" y1="2.159" x2="-2.7178" y2="2.159" width="0.1524" layer="21"/>
+<wire x1="5.08" y1="2.159" x2="5.08" y2="2.9972" width="0.1524" layer="21"/>
+<wire x1="5.08" y1="6.985" x2="-5.08" y2="6.985" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="6.985" x2="-5.08" y2="5.0292" width="0.1524" layer="21"/>
+<wire x1="2.7178" y1="2.159" x2="5.08" y2="2.159" width="0.1524" layer="21"/>
+<wire x1="-5.08" y1="2.9972" x2="-5.08" y2="2.159" width="0.1524" layer="21"/>
+<wire x1="5.08" y1="5.0292" x2="5.08" y2="6.985" width="0.1524" layer="21"/>
+<wire x1="2.8956" y1="2.286" x2="2.2606" y2="1.016" width="0.1524" layer="51"/>
+<wire x1="1.6256" y1="2.286" x2="2.2606" y2="1.016" width="0.1524" layer="51"/>
+<wire x1="-4.953" y1="2.286" x2="4.953" y2="2.286" width="0.1524" layer="51"/>
+<wire x1="4.953" y1="2.286" x2="4.953" y2="6.858" width="0.1524" layer="51"/>
+<wire x1="4.953" y1="6.858" x2="-4.953" y2="6.858" width="0.1524" layer="51"/>
+<wire x1="-4.953" y1="6.858" x2="-4.953" y2="2.286" width="0.1524" layer="51"/>
+<text x="-3.2766" y="1.651" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
+</package>
+</packages>
+<symbols>
+<symbol name="XF2L-1025-1A">
+<pin name="1" x="2.54" y="0" length="middle" direction="pas"/>
+<pin name="2" x="2.54" y="-2.54" length="middle" direction="pas"/>
+<pin name="3" x="2.54" y="-5.08" length="middle" direction="pas"/>
+<pin name="4" x="2.54" y="-7.62" length="middle" direction="pas"/>
+<pin name="5" x="2.54" y="-10.16" length="middle" direction="pas"/>
+<pin name="6" x="2.54" y="-12.7" length="middle" direction="pas"/>
+<pin name="7" x="48.26" y="-12.7" length="middle" direction="pas" rot="R180"/>
+<pin name="8" x="48.26" y="-10.16" length="middle" direction="pas" rot="R180"/>
+<pin name="9" x="48.26" y="-7.62" length="middle" direction="pas" rot="R180"/>
+<pin name="10" x="48.26" y="-5.08" length="middle" direction="pas" rot="R180"/>
+<pin name="11" x="48.26" y="-2.54" length="middle" direction="pas" rot="R180"/>
+<pin name="12" x="48.26" y="0" length="middle" direction="pas" rot="R180"/>
+<wire x1="7.62" y1="5.08" x2="7.62" y2="-17.78" width="0.1524" layer="94"/>
+<wire x1="7.62" y1="-17.78" x2="43.18" y2="-17.78" width="0.1524" layer="94"/>
+<wire x1="43.18" y1="-17.78" x2="43.18" y2="5.08" width="0.1524" layer="94"/>
+<wire x1="43.18" y1="5.08" x2="7.62" y2="5.08" width="0.1524" layer="94"/>
+<text x="20.6756" y="9.1186" size="2.0828" layer="95" ratio="6" rot="SR0">&gt;Name</text>
+<text x="20.0406" y="6.5786" size="2.0828" layer="96" ratio="6" rot="SR0">&gt;Value</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="XF2L-1025-1A" prefix="J">
+<gates>
+<gate name="A" symbol="XF2L-1025-1A" x="-22.86" y="7.62"/>
+</gates>
+<devices>
+<device name="" package="CON10_1X10_DBR_XF2L">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="10" pad="10"/>
+<connect gate="A" pin="11" pad="11"/>
+<connect gate="A" pin="12" pad="12"/>
+<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="3" pad="3"/>
+<connect gate="A" pin="4" pad="4"/>
+<connect gate="A" pin="5" pad="5"/>
+<connect gate="A" pin="6" pad="6"/>
+<connect gate="A" pin="7" pad="7"/>
+<connect gate="A" pin="8" pad="8"/>
+<connect gate="A" pin="9" pad="9"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MANUFACTURER_PART_NUMBER" value="XF2L10251A" constant="no"/>
+<attribute name="VENDOR" value="Omron" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -7209,6 +7294,7 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <part name="P+14" library="supply1" deviceset="VCC" device=""/>
 <part name="X2" library="con-molex" deviceset="52559-1092" device=""/>
 <part name="R12" library="eagle-ltspice" deviceset="R" device="R0603" value="100"/>
+<part name="J1" library="10pinzif" deviceset="XF2L-1025-1A" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -7330,6 +7416,7 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <instance part="X2" gate="-9" x="27.94" y="12.7"/>
 <instance part="X2" gate="-10" x="27.94" y="10.16"/>
 <instance part="R12" gate="G$1" x="17.78" y="30.48" rot="MR0"/>
+<instance part="J1" gate="A" x="12.7" y="58.42"/>
 </instances>
 <busses>
 </busses>
@@ -7453,11 +7540,16 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <junction x="-101.6" y="-17.78"/>
 </segment>
 <segment>
+<pinref part="X2" gate="-3" pin="S"/>
+<label x="22.86" y="27.94" size="1.778" layer="95"/>
 <pinref part="X2" gate="-5" pin="S"/>
 <label x="22.86" y="22.86" size="1.778" layer="95"/>
 <pinref part="R12" gate="G$1" pin="2"/>
 <wire x1="25.4" y1="22.86" x2="12.7" y2="22.86" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="22.86" x2="12.7" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="22.86" x2="12.7" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="27.94" x2="12.7" y2="30.48" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="27.94" x2="12.7" y2="27.94" width="0.1524" layer="91"/>
+<junction x="12.7" y="27.94"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -7938,13 +8030,6 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <wire x1="22.86" y1="30.48" x2="25.4" y2="30.48" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="SPISELECT" class="0">
-<segment>
-<pinref part="X2" gate="-3" pin="S"/>
-<wire x1="22.86" y1="27.94" x2="25.4" y2="27.94" width="0.1524" layer="91"/>
-<label x="22.86" y="27.94" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="CS" class="0">
 <segment>
 <pinref part="X2" gate="-6" pin="S"/>
@@ -7993,6 +8078,34 @@ Source: http://www.molex.com/product/ffc/52559.html</description>
 <wire x1="-48.26" y1="7.62" x2="-38.1" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="7.62" x2="-38.1" y2="15.24" width="0.1524" layer="91"/>
 <wire x1="-38.1" y1="15.24" x2="22.86" y2="15.24" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$7" class="0">
+<segment>
+<pinref part="J1" gate="A" pin="1"/>
+<wire x1="12.7" y1="58.42" x2="15.24" y2="58.42" width="0.1524" layer="91"/>
+<label x="15.24" y="58.42" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$8" class="0">
+<segment>
+<pinref part="J1" gate="A" pin="2"/>
+<wire x1="12.7" y1="55.88" x2="15.24" y2="55.88" width="0.1524" layer="91"/>
+<label x="12.7" y="55.88" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="J1" gate="A" pin="3"/>
+<wire x1="12.7" y1="53.34" x2="15.24" y2="53.34" width="0.1524" layer="91"/>
+<label x="12.7" y="53.34" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$10" class="0">
+<segment>
+<pinref part="J1" gate="A" pin="4"/>
+<wire x1="12.7" y1="50.8" x2="15.24" y2="50.8" width="0.1524" layer="91"/>
+<label x="12.7" y="50.8" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

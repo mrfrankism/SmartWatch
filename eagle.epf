@@ -359,10 +359,11 @@ UsedLibrary="C:/EAGLE 8.1.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="C:/EAGLE 8.1.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/EAGLE 8.1.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE 8.1.0/lbr/zilog.lbr"
+UsedLibrary="C:/Users/franco/Desktop/atmega328.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="79 177 1280 766"
+Loc="498 187 1699 776"
 State=2
 Number=0
 
