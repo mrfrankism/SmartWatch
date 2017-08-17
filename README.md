@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to my Smart Watch Project
 
-You can use the [editor on GitHub](https://github.com/mrfrankism/SmartWatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This Project was started May 2017 and is still being worked on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Status:
+* Currently the watch has undergone 1 prototype.
+* 2nd prototype in the process of being fabbed.
+* Case for the watch is being designed to be 3D printed
 
-### Markdown
+### Initial goals for this project are:
+* Working screen
+* Actual simple watch functionality
+* Computer to watch communication (SPI, UART)
+* Bluetooth connectivity to phone 
+    * Notifications
+    * Probably going to need to make an app for full functionality
+* Decent battery life (6 hours)
+* Ability to charge easily from usb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrfrankism/SmartWatch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Extra goals:
+* SOS signal
+    ** Being able to send a text with GPS coordinates to emergency contact, using only the watch 
+* LTE connectivity
+* Accelerometer
+* Gyro
+* Wifi?
+* GPS
