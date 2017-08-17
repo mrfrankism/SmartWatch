@@ -1,4 +1,4 @@
-## Welcome to my Smart Watch Project
+!## Welcome to my Smart Watch Project
 
 This Project was started May 2017 and is still being worked on.
 
@@ -27,4 +27,4 @@ This Project was started May 2017 and is still being worked on.
 * GPS
 
 ### Image Test
-[](https://user-images.githubusercontent.com/13021723/29394471-7702fa38-82d8-11e7-8f54-a04b0ba6b055.jpg)
+![alt text](https://user-images.githubusercontent.com/13021723/29394471-7702fa38-82d8-11e7-8f54-a04b0ba6b055.jpg)
