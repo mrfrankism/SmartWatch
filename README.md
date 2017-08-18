@@ -7,6 +7,10 @@ This Project was started May 2017 and is still being worked on.
 * 2nd prototype in the process of being fabbed.
 * Case for the watch is being designed to be 3D printed
 
+* Version 2 Board Layout (Being Fabbed)
+*![](https://user-images.githubusercontent.com/13021723/29473756-fa855e42-8426-11e7-941d-38b1179bc41a.PNG)
+
+
 ### Initial goals for this project are:
 * Working screen
 * Actual simple watch functionality
@@ -26,5 +30,3 @@ This Project was started May 2017 and is still being worked on.
 * Wifi?
 * GPS
 
-### Image Test
-![](https://drive.google.com/file/d/0B_HGEiNPtJqUcGFzRXprTkFOQ1ZIU0o2X2hBa1FJbzQyVkZF/view?usp=sharing)
