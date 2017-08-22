@@ -14,14 +14,13 @@ For more detailed Information check out the [wiki](https://github.com/mrfrankism
 * Actual simple watch functionality
 * Computer to watch communication (SPI, UART)
 * Bluetooth connectivity to phone 
-    ** Notifications
-    ** Probably going to need to make an app for full functionality
+* Notifications
+* Probably going to need to make an app for full bluetooth-notification functionality
 * Decent battery life (6 hours)
 * Ability to charge easily from usb
 
 ### Extra goals:
-* SOS signal
-    ** Being able to send a text with GPS coordinates to emergency contact, using only the watch 
+* SOS signal - Being able to send a text with GPS coordinates to emergency contact, using only the watch 
 * LTE connectivity
 * Accelerometer
 * Gyro
