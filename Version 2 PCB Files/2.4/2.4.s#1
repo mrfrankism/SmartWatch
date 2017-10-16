@@ -8138,7 +8138,6 @@ the board</text>
 <label x="213.36" y="114.3" size="1.778" layer="95" rot="R180"/>
 <wire x1="213.36" y1="116.84" x2="213.36" y2="111.76" width="0.1524" layer="91"/>
 <junction x="213.36" y="116.84"/>
-<junction x="205.74" y="116.84"/>
 </segment>
 </net>
 <net name="RESET" class="0">
@@ -8392,13 +8391,6 @@ the board</text>
 <wire x1="-20.32" y1="45.72" x2="-17.78" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="-22.86" y1="45.72" x2="-22.7076" y2="45.72" width="0.1524" layer="91"/>
 </segment>
-<segment>
-<pinref part="U$1" gate="G$1" pin="SDA"/>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="50.38" y1="-10.5" x2="48.26" y2="-10.5" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="-10.5" x2="48.26" y2="-10.16" width="0.1524" layer="91"/>
-<label x="48.26" y="-10.16" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="SCL" class="0">
 <segment>
@@ -8489,7 +8481,6 @@ the board</text>
 <pinref part="R21" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="119.38" x2="228.6" y2="111.76" width="0.1524" layer="91"/>
 <junction x="228.6" y="119.38"/>
-<junction x="228.6" y="111.76"/>
 </segment>
 </net>
 <net name="8" class="0">
@@ -8547,6 +8538,14 @@ the board</text>
 <wire x1="-73.66" y1="35.56" x2="-73.8124" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="SDA"/>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="50.38" y1="-10.5" x2="48.26" y2="-10.5" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-10.5" x2="48.26" y2="-10.16" width="0.1524" layer="91"/>
+</segment>
+</net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="L2" gate="G$1" pin="1"/>
@@ -8557,29 +8556,6 @@ the board</text>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="102,1,-2.54,114.3,VOUT,VCC,,,,"/>
-<approved hash="104,1,-25.4,114.3,IC4,VIN,VDD,,,"/>
-<approved hash="104,1,-73.66,53.34,U1,GND_2,GND,,,"/>
-<approved hash="104,1,-73.66,50.8,U1,VCC_2,VCC,,,"/>
-<approved hash="104,1,-73.66,48.26,U1,GND_3,GND,,,"/>
-<approved hash="104,1,-22.86,22.86,U1,AVCC,VCC,,,"/>
-<approved hash="104,1,-228.6,111.76,U$12,VDD,VUSB,,,"/>
-<approved hash="104,1,-228.6,99.06,U$12,VSS,N$6,,,"/>
-<approved hash="104,1,190.5,124.46,IC2,VCC,N$2,,,"/>
-<approved hash="202,1,205.74,111.76,IC2,!CTS,,,,"/>
-<approved hash="104,1,193.04,124.46,IC2,VCCIO,NET1,,,"/>
-<approved hash="208,1,-218.44,55.88,VBAT,sup,,,,"/>
-<approved hash="208,1,-193.04,111.76,VBAT,out,,,,"/>
-<approved hash="208,1,-190.5,116.84,VBAT,sup,,,,"/>
-<approved hash="113,1,-197.883,57.2812,JP3,,,,,"/>
-<approved hash="113,1,-211.142,19.05,LED4,,,,,"/>
-<approved hash="113,1,-107.95,30.1583,LED6,,,,,"/>
-<approved hash="113,1,-107.95,37.7783,LED7,,,,,"/>
-<approved hash="113,1,-160.257,12.5688,JP2,,,,,"/>
-<approved hash="113,1,-96.2829,115.701,JP1,,,,,"/>
-<approved hash="113,1,-169.943,57.2812,JP4,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 <compatibility>
