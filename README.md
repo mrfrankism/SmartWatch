@@ -5,7 +5,7 @@ For more detailed Information check out the [wiki](https://github.com/mrfrankism
 
 ### Current Status:
 * Currently the watch has undergone 2 prototypes.
-* 2nd Prototype spin: <img src="https://user-images.githubusercontent.com/13021723/29544946-69f7ceba-86b9-11e7-8c5e-dad77087f52f.jpg" width="480" height="480">
+* 2nd Prototype spin: <img src="https://user-images.githubusercontent.com/13021723/32009313-c3745986-b97c-11e7-9400-179ad1422d44.jpg" width="120" height="240">
 * The 2nd prototype was fabbed with the incorrecct package for the atmega328, so the 3rd spin will fix this issue without adding new       features for now
 * Case for the watch is being designed to be 3D printed
 
